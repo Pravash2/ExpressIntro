@@ -1,0 +1,23 @@
+{
+  "name": "express_intro",
+  "version": "1.0.0",
+  "description": "\"first express app\"",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pravash2/ExpressIntro.git"
+  },
+  "author": "pravash",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pravash2/ExpressIntro/issues"
+  },
+  "homepage": "https://github.com/Pravash2/ExpressIntro#readme",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.16.3"
+  }
+}
